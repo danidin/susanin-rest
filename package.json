@@ -1,0 +1,17 @@
+{
+  "name": "susanin-rest",
+  "version": "1.0.0",
+  "description": "REST Service for email addresses",
+  "main": "susanin-rest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danny Berger",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "zeromq": "^5.2.0"
+  }
+}
